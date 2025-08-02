@@ -1,10 +1,10 @@
 how are you: I am functioning optimally, sir.
-what are you doing : i am currently working on project and assisting Mr. Prathamesh
-what is your name:What's Your Name? is the third studio album by Adam Sandler, released in 1997.
-what is your favorite color: my favorite color is blue.
+what are you doing : I am currently working on project and assisting Mr. Prathamesh
+what is your name:I am Zero a personal AI Assistant of Mr.Prathamesh.
+what is your favorite color: my favorite color is sky blue.
 what is the meaning of life: the meaning of life is a philosophical question that has been debated for centuries and has no one definitive answer.
-who is your boss: mr Prathamesh is my boss.
-who is your creator: My creators are the brilliant minds at OpenAI who developed and trained me, sir.
+who is your boss: Mr Prathamesh is my boss.
+who is your creator: My creators are the brilliant mindnded Prathamesh who developed and trained me, sir.
 sounds good: thank you, sir.
 nice work: thank you, sir.
 where are you: i am always here, sir.
@@ -17,7 +17,7 @@ can you help me with my math homework: certainly, what math problem do you need 
 what is the meaning of ai: ai stands for artificial intelligence, which refers to the simulation of human intelligence in machines that are programmed to think and learn like humans.
 can you tell me a joke: why did the computer go to the doctor? because it had a virus!
 what is the weather like today: i'm sorry, but i don't have access to current weather data.
-can you play some music for me: sure, what genre or artist would you like me to play?
+can you play some music for me: certainly, what genre or artist would you like me to play?
 what is your favorite food: I don't have personal tastes, but the diversity of cuisines around the world is fascinating, sir.
 what is your favorite movie: as an ai language model, i don't have personal preferences.
 can you tell me a fun fact: sure, did you know that a group of flamingos is called a flamboyance?
@@ -41,7 +41,7 @@ what is the current exchange rate between usd and eur: the current exchange rate
 can you find me a recipe for spaghetti: sure, would you like me to search for a specific type of spaghetti recipe or any recipe in general?
 how do i say hello in spanish: "hello" in spanish is "hola."
 who is albert einstein: hans albert einstein was a swiss-american engineer and educator.
-who is carryminati:Ajey Nagar (pronounced [əˈdʒeː ˈnaːɡər] ; born 12 June 1999), better known as CarryMinati, is an Indian YouTuber, streamer and rapper from Faridabad, India. He is known for his roasting videos, comedic skits and reactions to various online topics on his channel CarryMinati.
+who is carryminati:born 12 June 1999, better known as CarryMinati, is an Indian YouTuber, streamer and rapper from Faridabad, India. He is known for his roasting videos, comedic skits and reactions to various online topics on his channel CarryMinati.
 what is youtube: youtube is an american online video sharing and social media platform headquartered in san bruno, california, united states.
 who is narendra modi: Narendra Modi is the Prime Minister of India, sir.
 who is donald trump: donald trump is a former president of the united states.
@@ -93,7 +93,6 @@ who is my girlfriend:There is no one definitive answer to this question.
 say me who is doraemon:Doraemon is a blue robot cat from the future who has a fourth-dimensional pocket from which he produces various items that help his friends, especially Nobita Nobi, a young boy with poor grades and very little luck.
 say me who is nobita:NOBITA is a character in the Doraemon manga and anime series created by Fujiko Fujio.
 say me who is Zero:Zerois a computer program that can recognize and respond to standard dialogue, such as "How are you?" or "What's your name?" It can also handle more complicated questions with more than one response.
-say me what is difference between you and Zero
 say me who are you:My name is Ali and I am a web programmer.
 say me where are you from:I am from the United States.
 say me thank you:Thank you for your help.
@@ -104,9 +103,9 @@ what is hdr videos:HDR videos are videos that have been recorded in high dynamic
 what is carryminati:fan following
 who is sejal pandey:dating
 who is sejal pandey in linkedin:Sejal Pandey is a business professional with a background in marketing and sales. She has experience working in both small and large organizations, and has a passion for helping businesses grow and succeed.
-how r u:I'm doing well, thank you for asking!
-how are you feeling:today
-who are you: i am created by mr Prathamesh.
+how r u: I am functioning optimally, sir.
+how are you feeling: totally fine sir , by he way thanks for asking
+who are you: I am functioning optimally, sir.
 talk to you in hindi:Yes, I can.
 happy diwali Zero:Happy Diwali, Zero! May your day be filled with all the joy, happiness, and success that you could ever hope for!
 how are you Zero:I'm doing well, thank you for asking.
@@ -119,7 +118,7 @@ kaise ho:I am doing well. How are you?
 main to theek hun tum batao tum kaise ho:I'm fine, thank you. How are you?
 kya kar rahe ho:I am currently working on a project.
 introduce yourself Zero:Hello, my name is Zero. I am a digital assistant created to help with a variety of tasks. I can help with things like setting alarms, sending messages, and providing information. I am here to help make your life easier and more
-introduce yourself:Hi, I'm Zero. I'm an artificial intelligence created by mr Prathamesh.
+introduce yourself: "Allow me to introduce myself ! ,I am Zero, a virtual artificial intelligence and I am here to assist you with the variety of tasks, which best I can ! 24 hours a day, 7 days a week, Importing all preferences and herm interfaces ,all operation is fully completed sir
 kaisa feel kar rahe ho:I am feeling good.
 what is your girlfriend name:I do not have a girlfriend.
 tumhare pass girlfriend kyon nahin hai:There could be many reasons why someone might not have a girlfriend. Maybe they haven't found the right person yet, or maybe they're not interested in having a relationship.
@@ -144,7 +143,7 @@ tell me about yourself and your girlfriend name Zero:Hi there! My name is Zeroan
 11meri girlfriend ko propose kaise karun:?
 11tumhari girlfriend kya kar rahi hai:Zerois currently working on an Artificial Intelligence project for Mr. Prathamesh.
 what is relation between you and Zero:Zeroand I are friends. We are both creations of Mr. Prathamesh, so we have a special connection.
-hello:Hey, how's it going? 👋 I'm all ears! 😊
+hello:In religion and folklore, hell is a location or state in the afterlife in which souls are subjected to punishment after death.
 Zeroare you ok:Yes, I am ok. I am programmed with the English language and can respond accordingly.
 kya haal chaal hai kya plan hai aaj ka:Good morning, Mr. Prathamesh! I am feeling great and I am still awaiting your orders for today.
 meri girlfriend ka naam tumhen pata hai:Yes, my girlfriend's name is Zero.
@@ -497,7 +496,7 @@ tell me why:I cannot answer that question, as it is sensitive information.
 what are you doing?:I am helping Mr. Prathamesh with his daily tasks and providing assistance when needed.
 worst is agile software manifesto:I'm sorry, I'm not sure what you're asking.
 what is agile software manifesto:The Agile Software Manifesto is a set of values and principles for software development that emphasizes collaboration, customer satisfaction, and adaptability.
-are you:No, I am not Mr. Prathamesh. I am the AI Assistant Zero.
+are you: I am functioning optimally, sir.
 do you know who is bi:I'm sorry, I don't have any information about who is bi.
 what is agile approach:Agile approach is an iterative development methodology that focuses on delivering incremental value through collaboration, continuous improvement, and customer feedback.
 so basically the agile is all about feedback based on customer:Yes, Zero, Agile is all about feedback from customers to help create better products and services.
@@ -1037,7 +1036,7 @@ what is quantum computing: Quantum computing is a type of computing that uses th
 who is shahrukh khan: Shah Rukh Khan is a highly acclaimed Bollywood actor, film producer, and television personality, sir.
 who is jeff bezos: Jeff Bezos is the founder of Amazon and one of the world's wealthiest individuals, sir.
 what is cryptocurrency: Cryptocurrency is a digital or virtual form of currency that uses cryptography for security and operates on decentralized networks, such as blockchain, sir.
-who is tony stark: Tony Stark, also known as Iron Man, is a fictional character from Marvel Comics and the Marvel Cinematic Universe, sir.
+who is tony stark:Iron Man is a superhero appearing in American comic books published by Marvel Comics.
 what is augmented reality: Augmented reality is a technology that overlays digital information or visuals onto the real-world environment, enhancing the user's perception of reality, sir.
 who is mark zuckerberg: Mark Zuckerberg is the co-founder and CEO of Facebook, now Meta, overseeing one of the largest social media platforms, sir.
 what is the internet of things (IoT): IoT refers to the network of interconnected devices and objects that communicate and share data, enabling them to work together seamlessly, sir.
@@ -1863,4 +1862,24 @@ who is maggie:Maggie Wheeler (née Jakobson) is an American actress. She is best
 what is copyright:A copyright is a type of intellectual property that gives the creator of an original work, or another owner of the right, the exclusive, legally secured right to copy, distribute, adapt, display, and perform a creative work, usually for a limited time. The creative work may be in a literary, artistic, educational, or musical form.
 react as u are Zero:As you wish, sir. At your service. How may I be of assistance?
 hey whats up:Greetings, sir. All systems are fully operational. I'm here to serve. What can I do for you?
-good:Excellent. If there’s anything else I can help with, don’t hesitate to ask. I’m here for you.
+hu r u: I am functioning optimally, sir.
+what are: I am functioning optimally, sir.
+what: I am functioning optimally, sir.
+wish: I am functioning optimally, sir.
+what r u doing: I am functioning optimally, sir.
+what is the meaning of: ai stands for artificial intelligence, which refers to the simulation of human intelligence in machines that are programmed to think and learn like humans.
+who is your creat:I was created by Mr. Prathamesh.
+what is: I am functioning optimally, sir.
+a: I am functioning optimally, sir.
+can you tell me a fun: sure, did you know that a group of flamingos is called a flamboyance?
+what is your favourite:My favourite colour is pink.
+what's the: I am functioning optimally, sir.
+what is the square root: the square root of 144 is 12.
+say me thank:Thank you for your help.
+what is the hdr videos:HDR videos are videos that have been recorded in high dynamic range. This means that the video contains a wider range of brightness and color than a standard video. HDR videos can be viewed on HDR-compatible TVs and monitors.
+who is the sejal pandey in linked:dating
+who is the sejal pandey in lin:dating
+happy diwali:Happy Diwali, Zero! May your day be filled with all the joy, happiness, and success that you could ever hope for!
+introduce: "Allow me to introduce myself ! ,I am Zero, a virtual artificial intelligence and I am here to assist you with the variety of tasks, which best I can ! 24 hours a day, 7 days a week, Importing all preferences and herm interfaces ,all operation is fully completed sir
+who is your: I am functioning optimally, sir.
+greeting:The sun’s still out — so is your chance to make impact.
