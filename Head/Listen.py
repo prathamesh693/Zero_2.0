@@ -19,7 +19,7 @@ def Trans_hindi_to_english(txt):
 def listen():
     recognizer = sr.Recognizer()
     recognizer.dynamic_energy_threshold = False
-    recognizer.energy_threshold = 35000
+    recognizer.energy_threshold = 3500
     recognizer.dynamic_energy_adjustment_damping = 0.03
     recognizer.dynamic_energy_ratio = 1.9
     recognizer.pause_threshold = 0.2
@@ -52,3 +52,4 @@ def listen():
             print_thread.start()
             listen_thread.join()
             print_thread.join()
+    return query
