@@ -14,7 +14,6 @@ formatted_date = today.strftime("%d %b %y")
 nowx = datetime.datetime.now()
 
 def wish():
-    welcome()
     current_hour = nowx.hour
     if 5 <= current_hour < 12:
         gd_dlg = random.choice(good_morningdlg)
