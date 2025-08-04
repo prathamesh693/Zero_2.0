@@ -35,12 +35,17 @@ def train_tfidf_vectorizer(dataset):
     return vectorizer, X
 
 # Retrieve the most relevant answer
-def get_answer(question, vectorizer, X,dataset):
+def get_answer(question, vectorizer, X, dataset):
     question = preprocess_text(question)
     question_vec = vectorizer.transform([question])
     similarities = cosine_similarity(question_vec, X)
     best_match_index = similarities.argmax()
-    return dataset[best_match_index]['answer']
+    best_score = similarities[0][best_match_index]
+    
+    if best_score < 0.3:
+        return None  # Means low confidence, trigger fallback
+    else:
+        return dataset[best_match_index]['answer']
 
 # Main Function
 def mind(text):
@@ -50,4 +55,4 @@ def mind(text):
     vectorizer, X = train_tfidf_vectorizer(dataset)
     user_question = text
     answer = get_answer(user_question, vectorizer, X, dataset)
-    speak(answer)
+    return answer
