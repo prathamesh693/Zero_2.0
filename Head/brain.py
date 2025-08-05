@@ -3,7 +3,6 @@ import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import threading
 import wikipedia
-from Training_model.model import mind
 from Head.Speak import speak
 import time
 import webbrowser
@@ -75,29 +74,3 @@ def google_search(query):
         speak("I didn't catch what you said.")
         # Commenting out the speak function as it's not pro vided here
         print("I didn't catch what you said.")
-
-def brain(text):
-
-    try:
-        response = mind(text)
-
-        if not response:
-            wiki_search(text) # If AI response is empty or not confident, pass to wiki-search
-            return
-        
-        # Start animation and speaking concurrently
-        animate_thread = threading.Thread(target=print_animated_message,args=(response,))
-        speak_thread = threading.Thread(target=speak,args=(response,))
-        
-        animate_thread.start()
-        speak_thread.start()
-        
-        animate_thread.join()
-        speak_thread.join()
-
-        qa_dict[text] = response # Store in qa_dict
-        save_qa_data(qa_file_path,qa_dict) # save updated qa_dict
-    
-    except Exception as e:
-        print(f"An error occured: {str(e)}")
-        wiki_search(text) # Pass to wiki_search on error
