@@ -19,10 +19,10 @@ def Trans_hindi_to_english(txt):
 def listen():
     recognizer = sr.Recognizer()
     recognizer.dynamic_energy_threshold = False
-    recognizer.energy_threshold = 3500
+    recognizer.energy_threshold = 35000
     recognizer.dynamic_energy_adjustment_damping = 0.03
     recognizer.dynamic_energy_ratio = 1.9
-    recognizer.pause_threshold = 0.2
+    recognizer.pause_threshold = 0.6
     recognizer.operation_timeout = None
     recognizer.non_speaking_duration = 0.1
     
@@ -44,12 +44,11 @@ def listen():
                 recognized_txt = ""
             finally:
                 print("\r",end="",flush=True)
-            os.system("cls" if os.name == "nt" else "clear")
-            # Threading part
-            listen_thread=threading.Thread(target=listen)
-            print_thread=threading.Thread(target=print_loop)
-            listen_thread.start()
-            print_thread.start()
-            listen_thread.join()
-            print_thread.join()
-    return query
+        os.system("cls" if os.name == "nt" else "clear")
+        # Threading part
+        listen_thread=threading.Thread(target=listen)
+        print_thread=threading.Thread(target=print_loop)
+        listen_thread.start()
+        print_thread.start()
+        listen_thread.join()
+        print_thread.join()
